@@ -1,0 +1,3 @@
+# PWA Logo files need to be added
+# You can add your own logo192.png and logo512.png files here
+# Or use a favicon generator like https://realfavicongenerator.net/
